@@ -8,3 +8,6 @@ XXG
 XXH
 XXI
 XXJ
+XFR
+XXX
+XRR

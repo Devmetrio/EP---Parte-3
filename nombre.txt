@@ -8,3 +8,6 @@ Uva
 Manzanas
 Agua
 Platano
+Higado
+Teclado
+Polo
